@@ -51,3 +51,4 @@ By doing this, you ensure a quality table that meets stakeholder needs and compl
 - Add a tables structure from the php admin manually (based on the case that you need to test it)
 - Use a maven command "mvn test" to run the code and make sure that scenario tag is matching the runner one 
 - Check the console for the test output 
+- For the report , check the target folder and choose any (based on your choice) "*.html" files and activate it using your broswer to check the report UI  
