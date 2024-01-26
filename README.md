@@ -49,5 +49,5 @@ By doing this, you ensure a quality table that meets stakeholder needs and compl
 - Make sure that xampp is installed   https://www.apachefriends.org/download.html
 - Create  a manual DB called customer from the PHP admin 
 - Add a tables structure from the php admin manually (based on the case that you need to test it)
-- Use a maven command "mvn test" to run the code and make surer that scenario tag is matching the runner one 
+- Use a maven command "mvn test" to run the code and make sure that scenario tag is matching the runner one 
 - Check the console for the test output 
